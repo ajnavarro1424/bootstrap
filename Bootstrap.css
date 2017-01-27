@@ -1,0 +1,13 @@
+.list img {
+  height:50px;
+  width: 50px;
+}
+
+.listcontent {
+
+
+}
+.col-sm-12, .col-sm-6 {
+  border: 3px solid black;
+  /*margin: 3%;*/
+}
